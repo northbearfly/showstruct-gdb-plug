@@ -5,7 +5,7 @@ class showStruct(gdb.Command):
 
     
     """showstruct
-    Usage: Mytest [struct] [address]
+    Usage: showstruct [struct] [address]
     Example:
         (gdb) showstruct _IO_FILE_plus stdout
     """
